@@ -20,4 +20,4 @@ Cambiar las rutas del rol Revisor al rol Administrador y viceversa
 
 Crear un archivo de texto guardando el nombre del almacen, el codigo de ruta, la prioridad del almacen, el nombre completo del usuario y la descripcion del rol, los datos deben estar ordenados por el nombre del usuario y la prioridad del almacen de manera descendente
 
-Imprimir la lista de almacenes que no corresponden al rol del usuario actual
+Crear un modulo de subalmacenes que cuenten con las propiedades: unidad, capacidad y clasificacion. (Que se puedan guardar, igual que los almacenes)
